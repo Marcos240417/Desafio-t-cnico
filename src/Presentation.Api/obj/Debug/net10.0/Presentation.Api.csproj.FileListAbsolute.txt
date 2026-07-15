@@ -156,3 +156,4 @@ C:\Users\LENOVO\ControleGastosResidenciais\src\Presentation.Api\obj\Debug\net10.
 C:\Users\LENOVO\ControleGastosResidenciais\src\Presentation.Api\obj\Debug\net10.0\Presentation.Api.genruntimeconfig.cache
 C:\Users\LENOVO\ControleGastosResidenciais\src\Presentation.Api\obj\Debug\net10.0\ref\Presentation.Api.dll
 C:\Users\LENOVO\ControleGastosResidenciais\src\Presentation.Api\bin\Debug\net10.0\package-lock.json
+C:\Users\LENOVO\ControleGastosResidenciais\src\Presentation.Api\obj\Debug\net10.0\Presentation.Api.sourcelink.json
